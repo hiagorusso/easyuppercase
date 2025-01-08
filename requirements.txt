@@ -1,0 +1,3 @@
+spellchecker
+pandas
+streamlit
